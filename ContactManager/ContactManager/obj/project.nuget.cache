@@ -1,15 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cKt6DxAOrIyZvIfPhhN18Y1vIiDoCJC1mA3kCHX48emMwxMEh93UuH1KgYl/hX7YhDSlE4FaCgMJzgGI14njdg==",
+  "dgSpecHash": "fbq/XdOvjq+4tpoGPNMPYqLstmPPIkdaIHKHzGCIpTV0nbf2uysyVuAtME92zJ4jd3aPpDe+wU3sRMi2Ao8LjQ==",
   "success": true,
   "projectFilePath": "C:\\Estudos\\C#\\workshop-asp-net-core-mvc\\ContactManager\\ContactManager\\ContactManager.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\80855048\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
-    "C:\\Users\\80855048\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
-    "C:\\Users\\80855048\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
-    "C:\\Users\\80855048\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
-    "C:\\Users\\80855048\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
-    "C:\\Users\\80855048\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }
