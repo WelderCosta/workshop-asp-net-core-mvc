@@ -1,4 +1,4 @@
-﻿using ContactManager.Models;
+﻿using ContactManager.Models.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using System.Diagnostics;
 
