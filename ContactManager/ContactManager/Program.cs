@@ -1,4 +1,9 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using ContactManager.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<ContactManagerContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("ContactManagerContext") ?? throw new InvalidOperationException("Connection string 'ContactManagerContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
